@@ -25,4 +25,4 @@ client.user.setPresence({
 });
 اقولها
 
-client.login("MzU3MjkwMjYxNDA5NDMxNTUy.DV4gXw.uUb0cO18ipmgbmsgb-6niE39vBs");
+client.login(process.env.BOT_TOKEN);
